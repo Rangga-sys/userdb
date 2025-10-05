@@ -54,5 +54,12 @@
         "password": "BOYBOY06",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "508e5140efcd97e2",
+        "username": "FEBRI",
+        "password": "car123",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
 ]
